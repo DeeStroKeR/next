@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: {
-    template: `%s | Tibica`,
+    template: `%s | Draft`,
     default: APP_NAME,
   },
   description: APP_DESCRIPTION,
